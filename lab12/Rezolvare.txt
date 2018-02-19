@@ -1,0 +1,11 @@
+1. C. Se va genera o eroare de compilare la linia this.privateMethod()
+2. C. Trei
+3. D. 15, 20, 10, 15, 15, 10
+4. A. Niciunul din cele de mai jos
+5. D. Compilarea eșuează cu 2 erori 
+6. D. Se va arunca o excepție de tipul IndexOutOfBoundsException, care nu va fi prinsă 
+7. A. Nu apar erori sau excepții, nici la compilare nici la execuție
+8. Parent 0; Child 1
+9. void f(D d) {...}
+10. final => clasele abstracte sunt facute pentru a fi extinse, iar facand clasa final, acest lucru nu mai poate fi facut
+11. private => metoda nu mai poate fi modificata de clasele care extind clasa abstracta ce contine metoda f() 
